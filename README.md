@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @freezingultra and I am 10 years old
+- 👋 Hi, I’m @freezingultra and I am 12 years old
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html,css,and inexternal js
 
